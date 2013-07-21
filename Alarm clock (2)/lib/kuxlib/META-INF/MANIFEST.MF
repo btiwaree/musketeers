@@ -1,0 +1,403 @@
+Manifest-Version: 1.0
+Created-By: Jakarta Ant 1.8.2 (December 20 2010)
+
+Name: kux/curves/testapp/CFrameMain$3.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$3.class
+
+Name: kux/utils/CHashMap.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\utils
+ \CHashMap.class
+
+Name: kux/curves/testapp/CFrameMain$6.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$6.class
+
+Name: kux/shadows/swing/CBeanShadowPanel.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\shado
+ ws\swing\CBeanShadowPanel.class
+
+Name: kux/glass/testapp/editor/CBeanEditColor$1.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditColor$1.class
+
+Name: kux/curves/testapp/CFrameMain$11.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$11.class
+
+Name: kux/glass/testapp/CFrameMain$16.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$16.class
+
+Name: kux/shadows/CShadowFactory.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\shado
+ ws\CShadowFactory.class
+
+Name: kux/glass/testapp/editor/CBeanEditValue.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditValue.class
+
+Name: kux/glass/swing/CGlassButton$3.class
+Last-Modified: Di, 26 Feb 2013 14:21:36 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \swing\CGlassButton$3.class
+
+Name: kux/glass/testapp/editor/CBeanTitle.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanTitle.class
+
+Name: kux/curves/CCurvesFactory.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\CCurvesFactory.class
+
+Name: kux/glass/testapp/CFrameMain$10.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$10.class
+
+Name: kux/curves/testapp/CMain.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CMain.class
+
+Name: kux/curves/testapp/CFrameMain$9.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$9.class
+
+Name: kux/curves/testapp/CFrameMain$2.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$2.class
+
+Name: kux/glass/testapp/editor/CBeanEditNumber$2.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditNumber$2.class
+
+Name: kux/glass/testapp/editor/CBeanEditNumber$1.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditNumber$1.class
+
+Name: kux/glass/testapp/CFrameMain.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain.class
+
+Name: kux/utils/struct/SPoint.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\utils
+ \struct\SPoint.class
+
+Name: kux/shadows/testapp/CBeanTestShadow.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\shado
+ ws\testapp\CBeanTestShadow.class
+
+Name: kux/glass/CGlassFactory_Java5Compatibel.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \CGlassFactory_Java5Compatibel.class
+
+Name: kux/curves/testapp/CFrameMain$5.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$5.class
+
+Name: kux/glass/swing/CGlassButton.class
+Last-Modified: Di, 26 Feb 2013 14:21:36 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \swing\CGlassButton.class
+
+Name: kux/curves/testapp/CFrameMain$1.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$1.class
+
+Name: kux/curves/testapp/CFrameMain$10.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$10.class
+
+Name: kux/glass/swing/CGlassButton$2.class
+Last-Modified: Di, 26 Feb 2013 14:21:36 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \swing\CGlassButton$2.class
+
+Name: kux/glass/testapp/CFrameMain$13.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$13.class
+
+Name: kux/glass/testapp/CFrameMain$11.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$11.class
+
+Name: kux/shadows/swing/CBeanShadowLabel.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\shado
+ ws\swing\CBeanShadowLabel.class
+
+Name: kux/shadows/testapp/CFrameMain.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\shado
+ ws\testapp\CFrameMain.class
+
+Name: kux/glass/testapp/CFrameMain$3.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$3.class
+
+Name: kux/shadows/swing/CShadowPainter.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\shado
+ ws\swing\CShadowPainter.class
+
+Name: kux/curves/testapp/CFrameMain.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain.class
+
+Name: kux/glass/plaf/CGlassButtonBarUI.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \plaf\CGlassButtonBarUI.class
+
+Name: kux/curves/testapp/CFrameMain$4.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$4.class
+
+Name: kux/glass/testapp/CFrameMain$4.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$4.class
+
+Name: kux/glass/testapp/CFrameMain$14.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$14.class
+
+Name: kux/curves/CCurvesFactory$CCache.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\CCurvesFactory$CCache.class
+
+Name: kux/glass/testapp/CBeanTestGlass.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CBeanTestGlass.class
+
+Name: kux/glass/CGlassFactory_Java5Compatibel$CCache.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \CGlassFactory_Java5Compatibel$CCache.class
+
+Name: kux/glass/swing/CGlassButton$1.class
+Last-Modified: Di, 26 Feb 2013 14:21:36 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \swing\CGlassButton$1.class
+
+Name: kux/curves/testapp/CFrameMain$8.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$8.class
+
+Name: kux/glass/testapp/CFrameMain$12.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$12.class
+
+Name: kux/glass/CImageCache$CCacheEntry.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \CImageCache$CCacheEntry.class
+
+Name: kux/curves/ICurvesFactory.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\ICurvesFactory.class
+
+Name: kux/shadows/testapp/CMain.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\shado
+ ws\testapp\CMain.class
+
+Name: kux/glass/plaf/CGlassButtonBarUI$CGlassButtonBarButtonUI.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \plaf\CGlassButtonBarUI$CGlassButtonBarButtonUI.class
+
+Name: kux/glass/testapp/CFrameMain$2.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$2.class
+
+Name: kux/glass/testapp/CFrameMain$5.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$5.class
+
+Name: kux/curves/testapp/CFrameMain$7.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CFrameMain$7.class
+
+Name: kux/glass/testapp/editor/CBeanEditNumber.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditNumber.class
+
+Name: kux/utils/CString.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\utils
+ \CString.class
+
+Name: kux/glass/testapp/CFrameMain$8.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$8.class
+
+Name: kux/glass/testapp/CFrameMain$15.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$15.class
+
+Name: kux/glass/CGlassFactory.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \CGlassFactory.class
+
+Name: kux/curves/testapp/CBeanTestCurves$1.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CBeanTestCurves$1.class
+
+Name: kux/glass/plaf/CGlassButtonUI.class
+Last-Modified: Di, 26 Feb 2013 13:59:16 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \plaf\CGlassButtonUI.class
+
+Name: kux/glass/testapp/CMain.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CMain.class
+
+Name: kux/glass/testapp/editor/CBeanEditValue$1.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditValue$1.class
+
+Name: kux/curves/ICurvesFactory$SCurvesParameter.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\ICurvesFactory$SCurvesParameter.class
+
+Name: kux/glass/testapp/CFrameMain$7.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$7.class
+
+Name: kux/glass/IGlassFactory.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \IGlassFactory.class
+
+Name: kux/glass/CGlassFactoryGenerator.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \CGlassFactoryGenerator.class
+
+Name: kux/glass/IGlassFactory$SGlassParameter.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \IGlassFactory$SGlassParameter.class
+
+Name: kux/curves/testapp/CBeanTestCurves$CThread.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CBeanTestCurves$CThread.class
+
+Name: kux/glass/CImageCache.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \CImageCache.class
+
+Name: kux/glass/testapp/editor/CBeanEditColor$3.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditColor$3.class
+
+Name: kux/glass/swing/IGlassComponent.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \swing\IGlassComponent.class
+
+Name: kux/glass/testapp/editor/CBeanEditColor$2.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditColor$2.class
+
+Name: kux/curves/testapp/CBeanTestCurves.class
+Last-Modified: Di, 26 Feb 2013 13:54:59 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\curve
+ s\testapp\CBeanTestCurves.class
+
+Name: kux/utils/CMath.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\utils
+ \CMath.class
+
+Name: kux/glass/testapp/editor/CBeanEditColor.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\editor\CBeanEditColor.class
+
+Name: kux/glass/testapp/CFrameMain$17.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$17.class
+
+Name: kux/glass/testapp/CFrameMain$6.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$6.class
+
+Name: kux/glass/testapp/CFrameMain$1.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$1.class
+
+Name: kux/glass/swing/CGlassButton$CFader.class
+Last-Modified: Di, 26 Feb 2013 14:21:36 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \swing\CGlassButton$CFader.class
+
+Name: kux/glass/testapp/CFrameMain$9.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \testapp\CFrameMain$9.class
+
+Name: kux/glass/swing/CGlassPanel.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\glass
+ \swing\CGlassPanel.class
+
+Name: kux/utils/CColor.class
+Last-Modified: Di, 26 Feb 2013 13:54:57 MEZ
+Content-Location: D:\_development\working\KuxLib\out\classes\kux\utils
+ \CColor.class
+
